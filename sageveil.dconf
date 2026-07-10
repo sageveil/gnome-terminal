@@ -1,0 +1,12 @@
+[/]
+visible-name='Sageveil'
+foreground-color='#A8AFA6'
+background-color='#101310'
+cursor-foreground-color='#101310'
+cursor-background-color='#A8AFA6'
+highlight-foreground-color='#A8AFA6'
+highlight-background-color='#241d21'
+cursor-colors-set=true
+highlight-colors-set=true
+palette=['#101310', '#9A6B6B', '#959C70', '#A69966', '#8A8493', '#876f7f', '#7F9476', '#A8AFA6', '#262F26', '#B08585', '#9C9F7F', '#C6B67E', '#A39DAC', '#947e8d', '#9AAB90', '#c3cdc0']
+use-theme-colors=false
